@@ -16,6 +16,12 @@ A small starter kit for your JavaScript/React projects. It includes:
 
 --- 
 
+## NPM Package
+
+* https://www.npmjs.com/package/beginning
+
+--- 
+
 * To use just bundling and watching use `npm run watch`.
 * To generate a production ready bundle use `npm run build`.
 
